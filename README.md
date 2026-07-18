@@ -1,4 +1,3 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -14,5 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/sandeepkaur-07/LeetCode/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/sandeepkaur-07/LeetCode/tree/master/0001-two-sum) | still needs to be optimized , the sol is brute force
 <!---LeetCode Topics End-->
